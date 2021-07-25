@@ -1,4 +1,3 @@
-[![Join the chat at https://gitter.im/copy/v86](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/copy/v86)
 
 v86 emulates an x86-compatible CPU and hardware. Machine code is translated to
 WebAssembly modules at runtime in order to achieve decent performance. Here's a
@@ -175,8 +174,8 @@ repository under their own licenses:
 
 ## More questions?
 
-Shoot me an email to `copy@copy.sh`. Please report bugs on GitHub.
+Shoot me an email to `soninikhil098@gmail.com`. Please report bugs on GitHub.
 
 ## Author
 
-Fabian Hemmer (https://copy.sh/, `copy@copy.sh`)
+Nikhil Soni (`soninikhil098@gmail.com`)
